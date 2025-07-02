@@ -52,7 +52,7 @@ This project identifies customers likely to churn from a telecom service using h
 - **Slicers**: Interactive filters (e.g., contract, internet service, etc.)  
 - **KPIs**: High-level indicators on churn rate, monthly charges, etc.
 
-![Dashboard Screenshot](dashboard_preview.png)
+
 
 ---
 
